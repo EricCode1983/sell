@@ -27,7 +27,7 @@ public class ProductServiceImplTest {
 
     @Test
     public void findOne() {
-         ProductInfo productInfo=    productService.findOne(1);
+         ProductInfo productInfo=    productService.findOne("1");
         Assert.assertNotNull(productInfo);
     }
 

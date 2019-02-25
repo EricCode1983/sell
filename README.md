@@ -15,4 +15,6 @@ return view to controller<-
 7 Chrom plugin to easy check json data jsonview
 8 @JsonProperty 解决前端Json的命名和后端不一致
 9 BeanUtils.copyProperties 用在 daoObject to viewObject or viewObject to daoObject
+10 Findone vs findById
+https://stackoverflow.com/questions/49316751/spring-data-jpa-findone-change-to-optional-how-to-use-this
 
