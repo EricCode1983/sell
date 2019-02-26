@@ -7,7 +7,8 @@ public class ResultVO<T> {
 
     /***Error Code*/
     private Integer code;
-    private String msg;
+    /***Error Message*/
+    private String msg="";
     private T data;
 
 
